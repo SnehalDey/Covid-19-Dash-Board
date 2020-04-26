@@ -1,0 +1,3 @@
+In order to run the visualization one must have tableau installed in his system.
+To run the tableau file just upload it and go to dashboard and click on the play button in the slider that is present on the top left corner of the Indian map.
+ 
